@@ -14,4 +14,4 @@ Feel free to follow me or contact me 😇
 
 ## My Github Stats
 
-[![GH Stats](https://github-readme-stats.vercel.app/api?username=Xiddoc&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](#)
+[![GH Stats](https://github-readme-stats.vercel.app/api?username=Xiddoc&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github)](#)
