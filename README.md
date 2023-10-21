@@ -8,7 +8,7 @@ Scroll down to see some of my GitHub stats, my favorite projects, my contributio
 
 Feel free to follow me or contact me 😇
 
-## Top Lanuages (Public repos only)
+## Top Languages (Public repos only)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiddoc&theme=radical&layout=compact)](#)
 
