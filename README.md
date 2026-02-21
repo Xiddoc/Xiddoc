@@ -8,10 +8,4 @@ Scroll down to see some of my GitHub stats, my favorite projects, my contributio
 
 Feel free to follow me or contact me 😇
 
-## Top Languages (Public repos only)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiddoc&theme=radical&layout=compact)](#)
-
-## My Github Stats
-
-[![GH Stats](https://github-readme-stats.vercel.app/api?username=Xiddoc&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xiddoc&theme=vue-dark)](https://git.io/streak-stats)
