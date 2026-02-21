@@ -8,4 +8,8 @@ Scroll down to see some of my GitHub stats, my favorite projects, my contributio
 
 Feel free to follow me or contact me 😇
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xiddoc&theme=vue-dark)](https://git.io/streak-stats)
+<h2 align="center">Github Stats</h2>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Xiddoc&theme=vue-dark" /></p>
+<h2 align="center">StackOverflow Stats</h2>
+<p align="center"><img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=11985743&period=year&mini=false" /></p>
+
